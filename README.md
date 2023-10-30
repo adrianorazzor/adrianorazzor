@@ -1,6 +1,5 @@
-- 👋 Hi, My name is Adriano, I'm 32 years old, I Live in Paraguay - South America. 
-- 👀 I’m interested in working on web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Git & GitHub, Command Line.
+- 👋 Hi, My name is Adriano, I'm 33 years old, I Live in Paraguay - South America. 
+- 👀 I’m currently working as a fullstack java developer.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: 
 - Email: adrianorazzor@gmail.com
